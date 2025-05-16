@@ -8,12 +8,6 @@ This fake-but-realistic Tweet Sentiment dataset has been created to simulate a r
 * **neutral**
 * **negative**
 
-It can be used for:
-
-* Building NLP classification models
-* Practicing text preprocessing and sentiment analysis
-* Comparing machine learning algorithms on text data
-
 ## Features
 
 | Column      | Description                                       |
